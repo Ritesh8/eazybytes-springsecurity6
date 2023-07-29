@@ -45,7 +45,7 @@ public class ProjectSecurityConfig {
         *//*Approach 1 where we use withDefaultPasswordEncoder() method
 		while creating the user details*//*
         *//*UserDetails admin = User.withDefaultPasswordEncoder()
-                .username("admin")
+                .username("admi  n")
                 .password("12345")
                 .authorities("admin")
                 .build();

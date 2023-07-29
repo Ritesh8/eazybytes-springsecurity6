@@ -1,6 +1,6 @@
-create database eazybank;
+create database springsecurity;
 
-use eazybank;
+use springsecurity;
 
 CREATE TABLE `users` (
 `id` INT NOT NULL AUTO_INCREMENT,
